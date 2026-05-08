@@ -1,7 +1,0 @@
-data/processed/
-results/
-__pycache__/
-*.pkl
-*.pyc
-.ipynb_checkpoints/
-*.zip
