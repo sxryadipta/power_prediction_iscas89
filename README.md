@@ -49,7 +49,7 @@ LOOCV has also been used as it is a more reliable metric.
 - out
 
 ### Target
-Power consumption (in log scale of Watts. This helps to normalize the distribution)
+Power consumption (in log scale of Watts. This helps to normalize the distribution).
 
 ---
 
