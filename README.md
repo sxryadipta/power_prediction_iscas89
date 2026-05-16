@@ -1,4 +1,4 @@
-# ML-Based Power Prediction on ISCAS'89 Benchmark Circuits
+# A Comparative Study of Interpretable Machine Learning Models for Power Estimation of VLSI Circuits.
 
 Comparing classical ML models for gate-level power estimation on ISCAS'89 benchmark circuits.
 
@@ -142,7 +142,7 @@ results/
 ## Paper
 
 **Title:**  
-Comparative Analysis of Machine Learning Models for Power Prediction in VLSI Circuits Using SHAP-Based Feature Importance
+A Comparative Study of Interpretable Machine Learning Models for Power Estimation of VLSI Circuits.
 
 Currently prepared for conference submission.
 
